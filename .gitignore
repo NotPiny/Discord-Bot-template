@@ -1,0 +1,4 @@
+# Avoids comitting bot token
+.env
+# Node Modules
+/node_modules
