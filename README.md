@@ -1,1 +1,3 @@
-# Discord-Bot-template
+# Discord Bot template (No Handler)
+
+Tutorial coming soon...
